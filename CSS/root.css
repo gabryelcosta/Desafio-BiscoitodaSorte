@@ -1,0 +1,19 @@
+:root {
+  font-size: 62.5%;
+
+  /* text-family */
+  --text-h1: "Montserrat", sans-serif;
+  --text-p: "DM Sans", sans-serif;
+  --text-luck: "Dancing Script", sans-serif;
+  --text-button: "DM Sans", sans-serif;
+
+  /* colors */
+  --bg-home: linear-gradient(45deg, #190361 0%, #BB00FF 100%);
+  --bg-main: #FFFFFF;
+  --bg-p-response: #E4EDF1;
+  --bg-button-repeat: #FF9500;
+
+  /* fonte colors */
+  --color-h1: hsla(238, 27%, 28%, 1);
+
+}
